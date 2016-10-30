@@ -1,0 +1,6 @@
+framework module benjenq {
+  umbrella header "benjenq.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  EmptyProject
+
+  Created by Administrator on 2016/10/27.
+  NSLocalizedString(@"", @"");
+
+
+*/
+
+"DATABASE_NAME" = "PokemonDB.db";
+
+"MAINVIEWTITLE" = "寶可記錄" ;
+
+"EDITVIEWTITLE1" = "新增記錄" ;
+"EDITVIEWTITLE2" = "修改記錄" ;
+
+"SEARCH_PLACEHOLDER" = "關鍵字(名稱/地點/時間)";
+
+"WEEKNUM" = "星期%@";
+
+"SUN" = "日";
+"MON" = "一";
+"TUE" = "二";
+"WED" = "三";
+"THU" = "四";
+"FRI" = "五";
+"SAT" = "六";
+
+"PERIOD_A" = "凌晨";
+"PERIOD_B" = "早上";
+"PERIOD_C" = "下午";
+"PERIOD_D" = "晚上";
+
+"DAYISHOLIDAY" = "假日";
+"DAYISNOTHOLIDAY" = "平日";
+
+"PASTEBOARDMSG" = "結果已輸出至剪貼簿！";
+"BTNOK" = "好";
+
+"INTERVALSTRING" = "%ld 天 %ld 小時 %ld 分";
